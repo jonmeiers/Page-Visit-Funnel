@@ -1,2 +1,2 @@
-# Page-Visit-Funnel
-Project for codecademy data analysis class
+# page_visits_funnel
+Data analysis funnel project for fictitious website
